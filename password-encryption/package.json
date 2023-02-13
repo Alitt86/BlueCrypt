@@ -1,0 +1,11 @@
+{
+  "name": "bluecrypt",
+  "version": "1.0.2",
+  "description": "Hash the users's password before registering or logging the user to the database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AliTehrani",
+  "license": "MIT"
+}
